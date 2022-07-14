@@ -1,0 +1,100 @@
+{
+    "basics": {
+        "name": "UJJWAL KUMAR",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2010@iiitkota.ac.in",
+        "phone": "+916200368154",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering.",
+        "location": {
+            "address": "JEHANABAD",
+            "postalCode": "804417",
+            "city": "JEHANABAD",
+            "countryCode": " India",
+            "region": "BIHAR"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "ujwlkr",
+                "url": "https://www.github.com/ujwlkr"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    
+        
+    
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics and Communication & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C"
+                
+                
+               
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+             "fluency": ""
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
